@@ -1,0 +1,97 @@
+[
+  {
+    "message": "{\"Type\":\"Login\", \"Name\":\"user1\"}",
+    "MessageType": "Received",
+    "timestamp": "2024-06-04 11:42:51"
+  },
+  {
+    "message": "{\"Users\":[\"{\\\"ID\\\":4,\\\"Name\\\":\\\"user1\\\",\\\"TimeBeenActive\\\":\\\"00:00:00\\\"}\"],\"Chatrooms\":[]}",
+    "MessageType": "Sent",
+    "timestamp": "2024-06-04 11:42:51"
+  },
+  {
+    "message": "{\"Type\":\"Login\", \"Name\":\"user2\"}",
+    "MessageType": "Received",
+    "timestamp": "2024-06-04 11:42:51"
+  },
+  {
+    "message": "{\"Users\":[\"{\\\"ID\\\":4,\\\"Name\\\":\\\"user1\\\",\\\"TimeBeenActive\\\":\\\"00:00:00\\\"}\",\"{\\\"ID\\\":5,\\\"Name\\\":\\\"user2\\\",\\\"TimeBeenActive\\\":\\\"00:00:00\\\"}\"],\"Chatrooms\":[]}",
+    "MessageType": "Sent",
+    "timestamp": "2024-06-04 11:42:51"
+  },
+  {
+    "message": "{\"Type\":\"BlockUser\",\"Text\":\"user2\"}",
+    "MessageType": "Received",
+    "timestamp": "2024-06-04 11:42:51"
+  },
+  {
+    "message": "{\"Users\":[\"{\\\"ID\\\":4,\\\"Name\\\":\\\"user1\\\",\\\"TimeBeenActive\\\":\\\"00:00:00\\\"}\",\"{\\\"ID\\\":5,\\\"Name\\\":\\\"user2\\\",\\\"TimeBeenActive\\\":\\\"00:00:00\\\"}\"],\"Chatrooms\":[]}",
+    "MessageType": "Sent",
+    "timestamp": "2024-06-04 11:42:51"
+  },
+  {
+    "message": "{\"Type\":\"Chatroom\", \"Name\":\"new chat room\"}",
+    "MessageType": "Received",
+    "timestamp": "2024-06-04 11:42:51"
+  },
+  {
+    "message": "{\"Users\":[],\"Chatrooms\":[\"{\\\"NumberOfSentMessages\\\":0,\\\"Name\\\":\\\"new chat room\\\"}\"]}",
+    "MessageType": "Sent",
+    "timestamp": "2024-06-04 11:42:51"
+  },
+  {
+    "message": "{\"Type\":\"Login\", \"Name\":\"user1\"}",
+    "MessageType": "Received",
+    "timestamp": "2024-06-04 11:42:51"
+  },
+  {
+    "message": "{\"Users\":[\"{\\\"ID\\\":6,\\\"Name\\\":\\\"user1\\\",\\\"TimeBeenActive\\\":\\\"00:00:00\\\"}\"],\"Chatrooms\":[]}",
+    "MessageType": "Sent",
+    "timestamp": "2024-06-04 11:42:51"
+  },
+  {
+    "message": "{\"Type\":\"Login\", \"Name\":\"user2\"}",
+    "MessageType": "Received",
+    "timestamp": "2024-06-04 11:42:51"
+  },
+  {
+    "message": "{\"Users\":[\"{\\\"ID\\\":6,\\\"Name\\\":\\\"user1\\\",\\\"TimeBeenActive\\\":\\\"00:00:00\\\"}\",\"{\\\"ID\\\":7,\\\"Name\\\":\\\"user2\\\",\\\"TimeBeenActive\\\":\\\"00:00:00\\\"}\"],\"Chatrooms\":[]}",
+    "MessageType": "Sent",
+    "timestamp": "2024-06-04 11:42:51"
+  },
+  {
+    "message": "{\"Type\":\"BlockUser\",\"Text\":\"7\"}",
+    "MessageType": "Received",
+    "timestamp": "2024-06-04 11:42:51"
+  },
+  {
+    "message": "{\"Users\":[\"{\\\"ID\\\":6,\\\"Name\\\":\\\"user1\\\",\\\"TimeBeenActive\\\":\\\"00:00:00\\\"}\",\"{\\\"ID\\\":7,\\\"Name\\\":\\\"user2\\\",\\\"TimeBeenActive\\\":\\\"00:00:00\\\"}\"],\"Chatrooms\":[]}",
+    "MessageType": "Sent",
+    "timestamp": "2024-06-04 11:42:51"
+  },
+  {
+    "message": "{\"Type\":\"Chatroom\", \"Name\":\"nono\"}",
+    "MessageType": "Received",
+    "timestamp": "2024-06-04 11:42:51"
+  },
+  {
+    "message": "{\"Users\":[],\"Chatrooms\":[\"{\\\"NumberOfSentMessages\\\":0,\\\"Name\\\":\\\"nono\\\"}\"]}",
+    "MessageType": "Sent",
+    "timestamp": "2024-06-04 11:42:51"
+  },
+  {
+    "message": "{\"Users\":[\"{\\\"ID\\\":8,\\\"Name\\\":\\\"localhost/127.0.0.1:8086\\\",\\\"TimeBeenActive\\\":\\\"00:00:00\\\"}\"],\"Chatrooms\":[\"{\\\"NumberOfSentMessages\\\":0,\\\"Name\\\":\\\"lobby\\\"}\"]}",
+    "MessageType": "Sent",
+    "timestamp": "2024-06-04 11:42:51"
+  },
+  {
+    "message": "{\"Type\":\"Login\", \"Name\":\"test\"}",
+    "MessageType": "Received",
+    "timestamp": "2024-06-04 11:42:51"
+  },
+  {
+    "message": "{\"Users\":[\"{\\\"ID\\\":9,\\\"Name\\\":\\\"test\\\",\\\"TimeBeenActive\\\":\\\"00:00:00\\\"}\"],\"Chatrooms\":[]}",
+    "MessageType": "Sent",
+    "timestamp": "2024-06-04 11:42:51"
+  }
+]
